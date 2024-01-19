@@ -111,8 +111,8 @@ input{
     box-shadow: 25px 15px 25px rgba(20, 61, 99, 0.4);
 }
 .loginctn{
-    height: 50vh;
-    width: 40vh;
+    height: 400px;
+    width: 350px;
     margin-top: 20px;
     display: flex;
     justify-content: center;
